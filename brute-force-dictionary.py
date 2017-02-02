@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Usage: python brute-force-dictionary.py --dictionary wordlist.txt --url http://www.query2d.com/es-pe/Account/Login
+# Usage: python brute-force-dictionary.py --dictionary wordlist.txt --url http://www.somedomain.com/Login
 
 #import the necessary packages
 import argparse
